@@ -1,0 +1,4 @@
+Jupiter 1 Pitch Diameter = 96.000000
+Jupiter 2 Pitch Diameter = 32.000000
+Jupiter 3 Pitch Diameter = 96.000000
+Jupiter 4 Pitch Diameter = 32.000000

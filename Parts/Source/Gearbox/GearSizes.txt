@@ -1,0 +1,17 @@
+MercuryPrimaryGear Pitch Diameter = 32.000000
+VenusPrimaryGear Pitch Diameter = 64.000000
+EarthPrimaryGear Pitch Diameter = 80.000000
+MarsPrimaryGear Pitch Diameter = 100.000000
+JupiterPrimaryGear Pitch Diameter = 100.000000
+SaturnPrimaryGear Pitch Diameter = 128.000000
+MercuryInputGear Pitch Diameter = 128.000000
+VenusInputGear Pitch Diameter = 100.000000
+EarthInputGear Pitch Diameter = 80.000000
+MarsInputGear Pitch Diameter = 64.000000
+Jupiter1Gear Pitch Diameter = 96.000000
+Jupiter2Gear Pitch Diameter = 32.000000
+Jupiter3Gear Pitch Diameter = 96.000000
+Jupiter4Gear Pitch Diameter = 32.000000
+Jupiter5Gear Pitch Diameter = 96.000000
+Saturn1Gear Pitch Diameter = 64.000000
+Saturn2Gear Pitch Diameter = 32.000000

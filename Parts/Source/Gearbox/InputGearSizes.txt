@@ -1,0 +1,4 @@
+Mercury Input Pitch Diameter = 128.000000
+Venus Input Pitch Diameter = 100.000000
+Earth Input Pitch Diameter = 80.000000
+Mars Input Pitch Diameter = 64.000000
