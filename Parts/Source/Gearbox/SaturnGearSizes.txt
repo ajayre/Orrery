@@ -1,0 +1,2 @@
+Saturn 1 Pitch Diameter = 64.000000
+Saturn 2 Pitch Diameter = 32.000000
