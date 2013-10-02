@@ -1,4 +1,0 @@
-EarthLargeGear Pitch Diameter = 80.000000
-Earth3Gear Pitch Diameter = 14.000000
-Earth1Gear Pitch Diameter = 64.000000
-Earth2Gear Pitch Diameter = 28.000000
