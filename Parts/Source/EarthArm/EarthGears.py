@@ -3,7 +3,6 @@
 PressureAngle = 20
 Thickness = 3
 MercuryDiameter = 32
-#OutputFolder = "C:/Users/Andy/Documents/Orrery/Parts/Source/Gearbox/"
 OutputFolder = "C:/Users/Andy/Documents/Orrery/Parts/Source/EarthArm/Scratch/"
 SizeFile = open(OutputFolder + "EarthGearSizes.txt", 'w')
 
@@ -21,6 +20,7 @@ Gear = Part("MercuryPrimaryGear")
 Profile = Gear.AddGearNP("Profile", 16, MercuryDiameter, PressureAngle, 0, 0, Gear.GetPlane("XY-Plane"))
 Gear.Close()
 DiametralPitch = Profile.DiametralPitch
+print >> SizeFile, "Diametral Pitch = %f" % DiametralPitch
 
 GenerateGear("EarthLargeGear", 80, DiametralPitch * 2, Thickness, OutputFolder, SizeFile)
 GenerateGear("Earth3Gear", 14, DiametralPitch * 2, Thickness, OutputFolder, SizeFile)
